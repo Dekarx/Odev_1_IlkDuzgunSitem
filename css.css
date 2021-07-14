@@ -1,0 +1,135 @@
+body {
+    background-color: #E9ECEF;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+a {
+    text-decoration:none;
+}
+
+#MüzikDükkanı {
+    color: red;
+}
+
+#Merhaba {
+    color: plum;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#p1 {
+    color: black;
+    margin-top: 15px;
+}
+
+#h-iki {
+    text-align: center;
+    color: burlywood;
+    margin-top: 10px;
+}
+
+.aşağıal {
+    margin-top: 10px;
+}
+
+ul li {
+    text-align: center;
+    list-style-position: inside;
+}
+
+#Hakkımızda {
+    text-align: center;
+    color: blueviolet;
+    margin-top: 30px;
+}
+
+.black {
+    color: black;
+    margin-top: 20px;
+}
+
+#Lorem20 {
+    margin-top: 20px;
+}
+
+.yellow {
+    color: yellowgreen;
+    margin-top: 20px
+}
+
+#ull {
+    margin-top: 20px;
+}
+
+.lii {
+    margin-top: 30px;
+}
+
+.kaydır {
+    margin-left: 35px;
+}
+
+#Ürünler {
+    text-align: center;
+    margin-top: 30px;
+    color: purple;
+}
+
+/* img {
+    width: 150px;
+    height: 200px;
+    margin-top: 30px;
+
+    position: relative;
+    left: 32%;
+} */
+
+.imgs {
+    color: purple;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bolder;
+}
+
+/* div {
+    border: solid black ;
+}
+
+article {
+    border: solid black ;
+} */
+
+.beyaz {
+    background-color: white;
+}
+
+.mor {
+    color: purple;
+    font-weight: bolder;
+}
+
+/* article {
+    position: relative;
+    right: -140px;
+} */
+
+.ortala {
+    margin-top: 5px;
+    background-color: aqua;
+}
+
+a:hover {
+    color:#FF00FF;
+}
+.tıkla:hover:hover {
+    color: brown;
+}
+
+/* img {
+    height: 300px;
+} */
+
+
